@@ -1,0 +1,9 @@
+# Ignore virtual environments
+venv/
+env/
+.venv/
+.env/
+ENV/
+.virtualenv/
+.conda/
+.devcontainer/
